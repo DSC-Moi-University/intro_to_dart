@@ -1,6 +1,6 @@
 # intro_to_dart
 
-## main function - entry point info a dart program
+## main function - entry point for a dart program
 ```dart
 void main() {
   print("Hello, GDG Nyeri");
